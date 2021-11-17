@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Angelica C. Rodrigues 👋
 
-<!--
-**angelicacavalheiro/angelicacavalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning: Backend with APIs and Databases
+- 😄 Pronouns: she/her
+- 📧 how to reach me: angelicacavalheiro51@gmail.com
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/angelicacavalheiro">
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=angelicacavalheiro&show_icons=true&theme=merko"/>
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicacavalheiro&layout=compact&theme=merko"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+  
+<div>
+  <a href="https://www.linkedin.com/in/angelica-cavalheiro-rodrigues"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"><a/>
+</div>
+  
+
+
+
