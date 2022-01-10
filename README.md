@@ -2,7 +2,7 @@
 
 ### I'm a neuroscience student and I'm interested in programming.
 
-- 🌱 I’m currently learning: Back-end architectures
+- 🌱 I’m currently learning: Object-oriented programming
 - 😄 Pronouns: she/her
 - 📧 how to reach me: angelicacavalheiro51@gmail.com or
 
