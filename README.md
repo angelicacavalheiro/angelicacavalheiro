@@ -1,6 +1,6 @@
 ## Hi, I'm Angelica C. Rodrigues 👋
 
-### I'm a neuroscience student and I'm interested in programming.
+### I'm a full stack developer and I'm interested in neuroscience.
 
 - 🌱 I’m currently learning: Object-oriented programming
 - 😄 Pronouns: she/her
