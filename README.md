@@ -2,7 +2,7 @@
 
 ### I'm a full stack developer and I'm interested in neuroscience.
 
-- 🌱 I’m currently learning: Object-oriented programming
+- 🌱 I’m currently learning: C#
 - 😄 Pronouns: she/her
 - 📧 how to reach me: angelicacavalheiro51@gmail.com or
 
